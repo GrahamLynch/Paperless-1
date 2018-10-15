@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/Eamon/Desktop/Paperless/app/src/main/assets"><file name="index.html" path="/Users/Eamon/Desktop/Paperless/app/src/main/assets/index.html"/><file name="style.css" path="/Users/Eamon/Desktop/Paperless/app/src/main/assets/style.css"/></source><source path="/Users/Eamon/Desktop/Paperless/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/Eamon/Desktop/Paperless/app/src/debug/assets"/></dataSet></merger>
